@@ -1,0 +1,1 @@
+Este desafio de código do curso Formação Lógica de Programação da [DIO](https://web.dio.me) teve como objetivo criar uma calculadora de partidas rankeadas, para reforçar os conhecimentos aprendidos anteriormente e a utilização de funções. A saída esperada deste programa é o saldo de vitórias do jogador e seu nível correspondente.
